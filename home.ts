@@ -8,9 +8,12 @@ export default{
 
     auction_currentbid:'当前出价',
     auction_auctiontime:'拍卖结束于',
+    auction_winner:'成交价格',
+    auction_holder:'持有者',
     auction_bid:'出价',
-    auction_settle:'确认',
+    auction_settle:'结算',
     auction_bidlist:'查看所有出价',
+    auction_bidview:'暂无出价',
 
     octopus_tittle:'章鱼引导员Paul',
     octopus_content1:'Fufufu！你将进入的是一个充满危机的新世界：极化海！',
@@ -66,9 +69,12 @@ export default{
 
     auction_currentbid:'Current bid',
     auction_auctiontime:'Auction ends in',
+    auction_winner:'Winning bid',
+    auction_holder:'Held by',
     auction_bid:'Place a bid',
     auction_settle:'Settle',
     auction_bidlist:'View all bids',
+    auction_bidview:'No bids yet',
 
     octopus_tittle:'Octopus guide Paul',
     octopus_content1:'Fufufu！You are about to enter the Neo world: the Polarized Sea!',
