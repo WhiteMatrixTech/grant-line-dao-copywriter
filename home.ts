@@ -1,5 +1,6 @@
 export default{
   zh:{
+    language:'简体中文',
     nav_dao:'DAO',
     nav_doc:'文档',
     nav_discourse: '论坛',
@@ -57,6 +58,7 @@ export default{
     library_content26:'6）合约资料',
   },
   en: {
+    language:'English',
     nav_dao:'DAO',
     nav_doc:'Docs',
     nav_discourse: 'Discourse',
