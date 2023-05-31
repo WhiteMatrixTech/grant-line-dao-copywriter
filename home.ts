@@ -6,7 +6,7 @@ export default{
     nav_discourse: '论坛',
     nav_wallet: '连接钱包',
 
-    pfpname:'X-Order {{tokenId}}',
+    pfpname:'X-Order {{count}}',
     pfpdesctoken0:'致我们的船长：TT',
     pfpdesctoken10:'每10个X-Order拍卖，GrandLineDao都会保留一个X-Order，用于赠予给被证明给有梦想的“Z世代“上。',
 
