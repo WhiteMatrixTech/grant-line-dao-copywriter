@@ -7,7 +7,7 @@ export default{
     nav_wallet: '连接钱包',
 
     pfpname:'X-Order {{count}}',
-    pfpdesctoken0:'致我们的船长：TT',
+    pfpdesctoken0:'献给我们永远的船长！',
     pfpdesctoken10:'每10个X-Order拍卖，GrandLineDao都会保留一个X-Order，用于赠予给被证明给有梦想的“Z世代“上。',
 
     auction_currentbid:'当前出价',
@@ -72,7 +72,7 @@ export default{
     nav_wallet: 'Connect Wallet',
 
     pfpname:'X-Order {{count}}',
-    pfpdesctoken0:'To our captain：TT',
+    pfpdesctoken0:'To our forever captain!',
     pfpdesctoken10:'For every 10th X-Order , GrandLineDao reserves the X-Order to give to the "Z Generation" who have proven their ambitions.',
 
     auction_currentbid:'Current bid',
