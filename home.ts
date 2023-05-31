@@ -5,8 +5,8 @@ export default{
     nav_doc:'文档',
     nav_discourse: '论坛',
     nav_wallet: '连接钱包',
-    
-    pfpname:'X-Order {{tokenid}}',
+
+    pfpname:'X-Order {{tokenId}}',
     pfpdesctoken0:'致我们的船长：TT',
     pfpdesctoken10:'每10个X-Order拍卖，GrandLineDao都会保留一个X-Order，用于赠予给被证明给有梦想的“Z世代“上。',
 
@@ -70,7 +70,7 @@ export default{
     nav_doc:'Docs',
     nav_discourse: 'Discourse',
     nav_wallet: 'Connect Wallet',
-    
+
     pfpname:'X-Order {{tokenid}}',
     pfpdesctoken0:'To our captain：TT',
     pfpdesctoken10:'For every 10th X-Order , GrandLineDao reserves the X-Order to give to the "Z Generation" who have proven their ambitions.',
