@@ -71,7 +71,7 @@ export default{
     nav_discourse: 'Discourse',
     nav_wallet: 'Connect Wallet',
 
-    pfpname:'X-Order {{tokenid}}',
+    pfpname:'X-Order {{count}}',
     pfpdesctoken0:'To our captain：TT',
     pfpdesctoken10:'For every 10th X-Order , GrandLineDao reserves the X-Order to give to the "Z Generation" who have proven their ambitions.',
 
