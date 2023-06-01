@@ -5,6 +5,9 @@ export default{
     nav_doc:'文档',
     nav_discourse: '论坛',
     nav_wallet: '连接钱包',
+    
+    error_balance: '账户余额不足',
+    error_timeout: '交易过期，请刷新重试',
 
     pfpname:'X-Order {{count}}',
     pfpdesctoken0:'献给我们永远的船长！',
@@ -70,6 +73,9 @@ export default{
     nav_doc:'Docs',
     nav_discourse: 'Discourse',
     nav_wallet: 'Connect Wallet',
+    
+    error_balance: 'Insufficient account balance.',
+    error_timeout: 'Transaction expired, please refresh and try again.',
 
     pfpname:'X-Order {{count}}',
     pfpdesctoken0:'To our forever captain!',
