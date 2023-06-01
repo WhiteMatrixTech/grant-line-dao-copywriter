@@ -9,6 +9,7 @@ export default{
     pfpname:'X-Order {{count}}',
     pfpdesctoken0:'致我们的船长：TT',
     pfpdesctoken10:'每10个X-Order拍卖，GrandLineDao都会保留一个X-Order，用于赠予给被证明给有梦想的“Z世代“上。',
+    pfpDescTokenNull: '它被伟大航DAO的大漩涡吞噬了，也许未来某一天会有其他X-Order带领它再次出海！',
 
     auction_currentbid:'当前出价',
     auction_auctiontime:'拍卖结束于',
@@ -74,6 +75,7 @@ export default{
     pfpname:'X-Order {{count}}',
     pfpdesctoken0:'To our captain：TT',
     pfpdesctoken10:'For every 10th X-Order , GrandLineDao reserves the X-Order to give to the "Z Generation" who have proven their ambitions.',
+    pfpDescTokenNull: 'It was swallowed by the great maelstrom of the GrandLineDao, and perhaps one day in the future another X-Order will lead it out to sea again!',
 
     auction_currentbid:'Current bid',
     auction_auctiontime:'Auction ends in',
