@@ -87,7 +87,7 @@ export default{
     auction_auctiontime:'Auction ends in',
     auction_winner:'Winning bid',
     auction_holder:'Held by',
-    auction_bid:'Place a bid',
+    auction_bid:'Place bid',
     auction_settle:'Settle',
     auction_bidlist:'View all bids',
     auction_bidview:'No bids yet',
