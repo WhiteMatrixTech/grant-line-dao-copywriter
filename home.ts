@@ -63,9 +63,9 @@ export default{
     library_content20:'每个X-Order是一个ERC-721的token，所有X-Order的ERC-721 tokens 可以在这里查看 ',
     library_content21:'因为以太坊的工作机制，每一个X-Order拍卖必须在上一个拍卖完成后主动进行设置。拍卖设计的交易包含三个事物：1）发送现在X-Order给到拍卖获胜者；2）生成下一个X-Order；3）开始下一个24小时的X-Order拍卖。',
     library_content22:'5）GrandLineDao国库',
-    library_content23:'X-Order拍卖所得会100%进入GrandLineDao的国库，治理上基于Compound Governance,并致敬了NounsDao。',
-    library_content24:'每个X-Order都是GrandLineDao不可或缺的成员，1个X-Order拥有1票，共同在制定“极化海”上的新秩序。',
-    library_content25:'你不能转让你的投票，但是可以委托其他船员进行投票',
+    library_content23:'X-Order 拍卖的收益将 100% 进入 GrandLineDao 国库。',
+    library_content24:'GrandLineDao Treasury 由 X-Orders 管理每个 X-Order 都是 GrandLineDao 不可或缺的成员，并且允许你在“ Polarized Sea”上建立新的秩序，每个X-Order拥有一票。',
+    library_content25:'选票是不可转让的（如果你卖掉你的 X-Order，投票权也会随之消失）。但是你可以委托你的选票，这意味着只要你拥有你的 X-Order，你就可以将你的选票交由他人投票。',
     library_content26:'6）合约资料',
   },
   en: {
