@@ -97,7 +97,7 @@ export default{
     octopus_content2:'Everything you once knew will be overturned in this crazy ocean. No one can help you to survive except yourself. You must to awaken, breaking your limitations, Crossing tribulation, dreaming together with companions, establish a new order, and survive in this sea. Only then can you discover your own treasure.',
     octopus_content3:'Once,TT who is a great prophet & captain bestowed upon your group of brave and crazy pioneers a name—X-Order!',
     octopus_content4:'People gradually referred to the new order and government process established by the X-Orders on the Polarized Sea as the GrandLineDao.',
-    octopus_content5:'If you are truly prepared, Let’s set sail and navigate a polarized Sea',
+    octopus_content5:'If you are truly prepared, Let’s set sail and navigate the Polarized Sea.',
     octopus_content6:"Here's some friendly tips:",
     octopus_content7:'· Every 24 hours, a new X-Order becomes eligible to set sail, forever.',
     octopus_content8:'· Daily auctions are held for X-Order sailing permits, Participants must show their ‘determination’ to earn this.',
